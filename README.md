@@ -1,5 +1,12 @@
 # Zero-DCE-TFLite
-Conversion of TF-Lite model from ZERO-DCE model
+Conversion of TF-Lite model from ZERO-DCE Model
+
+This repository contains the `TF-Lite` of the ZERO-DCE model developed by  [Soumik Rakshit](https://twitter.com/soumikRakshit96).
+
+References:
+* Research Paper Link: https://arxiv.org/abs/2001.06826
+* Original Repository Link: https://github.com/soumik12345/Zero-DCE
+* Keras.io Link: https://keras.io/examples/vision/zero_dce/
 
 ## Architecture
 
