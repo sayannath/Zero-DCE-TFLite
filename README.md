@@ -1,7 +1,9 @@
 # Zero-DCE-TFLite
 Conversion of TF-Lite model from ZERO-DCE Model
 
-This repository contains the `TF-Lite` of the ZERO-DCE model developed by  [Soumik Rakshit](https://twitter.com/soumikRakshit96).
+## Description
+
+This repository contains the `TF-Lite` of the ZERO-DCE model developed by  [Soumik Rakshit](https://twitter.com/soumikRakshit96). This model is available at [TF-Hub](https://tfhub.dev) now at [link](https://tfhub.dev/sayannath/lite-model/zero-dce/1).
 
 ### Results
 
